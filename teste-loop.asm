@@ -18,4 +18,4 @@
 
 .data
 	n: .word 10				#variavel n salva na memoria
-	fim: .asciiz "\ncabou"			#variavem fim salva na memoria
+	fim: .asciiz "\ncabou"			#variavel fim salva na memoria
